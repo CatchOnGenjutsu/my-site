@@ -111,16 +111,21 @@ body {
 
 .skill-html {
   background-image: url("img/icon-html.svg");
+  height: 24px;
+  width: 23px;
+
 }
 
 .skill-css {
   background-image: url("img/icon-css.svg");
+  height: 24px;
+  width: 23px;
 }
 
 .level {
   margin: 4px 0 16px;
   padding: 0;
-  height: 14px;
+  height: 18px;
   font-size: 0;
   background-color: #ffffff;
   border: 1px solid #86c3fa;
@@ -129,13 +134,13 @@ body {
 
 .level div {
   margin: 1px;
-  height: 12px;
+  height: 18px;
   background-color: #288be6;
   border-radius: 6px;
 }
 
 .portfolio {
-  margin: 0 0 120px;
+  margin: 0 0 120px; 
 }
 
 .projects {
